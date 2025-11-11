@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Levels/Level1.umap"
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Levels/Level1.umap",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Blueprints/BP_PlayerPawn.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Blueprints/BP_GameInstance.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Blueprints/BP_AmmoPickUp.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Blueprints/AC_HealthComponent.uasset"
 			]
 		}
 	]
