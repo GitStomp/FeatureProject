@@ -16,7 +16,8 @@
 				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Inputs/IMC_PlayerControls.uasset",
 				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Inputs/IA_Rotate.uasset",
 				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Blueprints/BP_PlayerController.uasset",
-				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Inputs/IA_Interact.uasset"
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Inputs/IA_Interact.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Blueprints/BP_GameMode.uasset"
 			]
 		}
 	]
