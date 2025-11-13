@@ -9,7 +9,14 @@
 				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Blueprints/BP_PlayerPawn.uasset",
 				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Blueprints/BP_GameInstance.uasset",
 				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Blueprints/BP_AmmoPickUp.uasset",
-				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Blueprints/AC_HealthComponent.uasset"
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Blueprints/AC_HealthComponent.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Inputs/IA_Move.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Inputs/IA_Aim.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Inputs/IA_Shoot.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Inputs/IMC_PlayerControls.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Inputs/IA_Rotate.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Blueprints/BP_PlayerController.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Inputs/IA_Interact.uasset"
 			]
 		}
 	]
