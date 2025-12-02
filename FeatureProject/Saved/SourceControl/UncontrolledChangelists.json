@@ -18,7 +18,13 @@
 				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Blueprints/BP_PlayerController.uasset",
 				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Inputs/IA_Interact.uasset",
 				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Blueprints/BP_GameMode.uasset",
-				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Blueprints/BP_FixedCamera.uasset"
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Blueprints/BP_FixedCamera.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Materials/M_Gun.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Materials/M_HSkin.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Materials/M_Blue.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Materials/M_Floor.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Materials/M_Wall.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Blueprints/BP_PlayerBullet.uasset"
 			]
 		}
 	]
