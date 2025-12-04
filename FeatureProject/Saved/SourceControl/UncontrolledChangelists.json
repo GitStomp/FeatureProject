@@ -24,7 +24,16 @@
 				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Materials/M_Blue.uasset",
 				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Materials/M_Floor.uasset",
 				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Materials/M_Wall.uasset",
-				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Blueprints/BP_PlayerBullet.uasset"
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Blueprints/BP_PlayerBullet.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Materials/M_Green.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Blueprints/BP_Zombie.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Blueprints/BP_ZombieController.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Behavior/BTTask_BlueprintBase_New.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Behavior/BTTask_.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Behavior/BTTask_RoamAround.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Behavior/BT_ZombieBehavior.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Behavior/BTTask_ChasePlayer.uasset",
+				"C:/GitHubRepositories/FeatureProject/FeatureProject/FeatureProject/Content/Behavior/BB_ZombieBlackboard.uasset"
 			]
 		}
 	]
